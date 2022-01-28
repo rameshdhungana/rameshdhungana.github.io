@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Thank for coming to see my portfolio!
 
-Template Name: Kelvin
-Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+Name: Ramesh Dhungana
